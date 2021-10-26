@@ -1,4 +1,5 @@
-## Oiii! Eu sou a Danielle Souza 
+Olá, Eu sou a Danielle Souza e espero que você goste do meu perfil.
+
  <div>
   <a href="https://github.com/danielleelara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielleelara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
