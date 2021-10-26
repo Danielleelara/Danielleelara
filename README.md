@@ -1,4 +1,4 @@
-Olá, Eu sou a Danielle Souza e espero que você goste do meu perfil.
+Olá, Eu sou a Danielle Souza.
 
  <div>
   <a href="https://github.com/danielleelara">
