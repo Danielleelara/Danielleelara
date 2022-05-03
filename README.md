@@ -23,7 +23,7 @@ Olá, Eu sou a Danielle Souza.
  	<a href = "mailto:dany.sa1@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielle-souza-bb95b05b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animaton](https://github.com/pamelaamanda/pamelaamanda/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animaton](https://github.com/danielleelara/danielleelara/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
